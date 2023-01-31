@@ -48,7 +48,8 @@ files:
     {
       "extends": [
         "github>chrisns/.github:renovate"
-      ]
+      ],
+      "prFooter": "**Automerge**: Enabled"
     }
 
   ".github/workflows/security.yml": |
